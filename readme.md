@@ -1,7 +1,7 @@
 
 # Welcome to Jyothis Skill Development Center
 
-![Logo](https://avatars.githubusercontent.com/u/123456789?s=200&v=4) <!-- Replace with your actual logo URL -->
+![Logo](https://avatars.githubusercontent.com/u/173588211?s=200&v=4) <!-- Replace with your actual logo URL -->
 
 ## 🚀 Skill Up, Scale Up, Achieve
 
@@ -60,9 +60,9 @@ Have questions? We're here to help!
 - **Email:** info@jyothis.com
 - **Phone:** +1 (123) 456-7890
 
-![Footer Image](https://yourimageurl.com/footer.jpg)
+![Footer Image]([https://yourimageurl.com/footer.jpg](https://avatars.githubusercontent.com/u/173588211?s=200&v=4))
 
-<marquee>🔗 Visit our [Website](https://jyothis.com) for more information 🔗</marquee>
+<marquee>🔗 Visit our [Website](https://www.linkedin.com/company/103337730/) for more information 🔗</marquee>
 
 ---
 
