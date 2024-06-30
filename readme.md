@@ -1,8 +1,4 @@
-Sure, I'll incorporate the organization's GitHub URL and make sure to mention using the same logo as the profile picture of the organization.
 
-Here's the updated README:
-
-```markdown
 # Welcome to Jyothis Skill Development Center
 
 ![Logo](https://avatars.githubusercontent.com/u/123456789?s=200&v=4) <!-- Replace with your actual logo URL -->
