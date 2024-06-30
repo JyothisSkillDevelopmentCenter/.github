@@ -66,6 +66,3 @@ _© 2024 Jyothis Skill Development Center. All Rights Reserved._
 ---
 
 Check out our GitHub projects at [Jyothis Skill Development Center on GitHub](https://github.com/JyothisSkillDevelopmentCenter/)
-```
-
-This README now includes a placeholder for the logo that matches the profile picture of the GitHub organization. Be sure to replace the placeholder URL (`https://avatars.githubusercontent.com/u/123456789?s=200&v=4`) with the actual URL of your organization's profile picture.
