@@ -57,11 +57,6 @@ Stay updated with our latest news and offerings:
 
 Have questions? We're here to help!
 
-- **Email:** info@jyothis.com
-- **Phone:** +1 (123) 456-7890
-
-![Footer Image]([https://yourimageurl.com/footer.jpg](https://avatars.githubusercontent.com/u/173588211?s=200&v=4))
-
 <marquee>🔗 Visit our [Website](https://www.linkedin.com/company/103337730/) for more information 🔗</marquee>
 
 ---
